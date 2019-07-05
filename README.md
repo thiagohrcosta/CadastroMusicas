@@ -27,11 +27,11 @@ Para tanto criou-se um projeto denominado "Musica", com quatro classes:
 **a)** Classe Artista <br>
 Armazenará as informações principais de Artista adotando a programação orientada a objetos. 
 
-> >	public int id;
-> >	public String name;
-> > public String nacionalidade;
+> >	public int id; <br>
+> >	public String name; <br>
+> >     public String nacionalidade; <br>
 
-Obs: Na modelagem de dados os atributos foram listados como "Privates", contudo foi no momento utilizados no Java como se fossem públicos. 
+Obs: Na modelagem de dados os atributos foram listados como "Privates", contudo foi no momento utilizados no Java como se fossem públicos. Posteriormente serão adaptados. 
 
 
 	
