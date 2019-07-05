@@ -97,21 +97,8 @@ O código após apresentar os artistas já cadastrados, solicita ao usuário que
 > >		artista2.name = sc.nextLine(); <br>
 > >		System.out.println("Digite a sua nacionalidade:"); <br>
 > >		artista2.nacionalidade = sc.nextLine(); <br>
-<br>
-Para a classe Musica será requisitado: 
-<br>
-> >  Musica musica2 = new Musica();
-> >		System.out.println("Digite a música mais famosa deste artista:"); <br>
-> >		musica2.name = sc.nextLine(); <br>
-> >		System.out.println("Digite a duração desta música em segundos:"); <br>
-> >		musica2.duracao = sc.nextInt(); <br>
-<br>
-Por fim, para a classe Album se exigirá:
-<br>
-> >	Album album2 = new Album(); <br>
-> >		System.out.println("O album mais famoso, foi lançado em que ano? "); <br>
-> >		album2.ano = sc.nextInt(); <br>
 
+Foram requeridos também entrada de dados para Album e Musica.
 	
 # CÓDIGO EM EXECUÇÃO
 O código aqui desenvolvido pode ser visto em execução no seguinte link:
