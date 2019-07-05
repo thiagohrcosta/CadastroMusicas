@@ -88,3 +88,7 @@ Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 > >		musica3.name = "Seek and Destroy";
 > >		musica3.duracao = 360;
 	
+# CÓDIGO EM EXECUÇÃO
+O código aqui desenvolvido pode ser visto em execução no seguinte link:
+
+[![Projeto Java](https://i.ibb.co/17hbksQ/tumbyoutubemetallica.jpg)](https://www.youtube.com/watch?v=T-R0MgiGMAY&feature=youtu.be)
