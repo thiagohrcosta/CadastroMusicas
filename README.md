@@ -60,31 +60,31 @@ Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 
 > >		Artista artista1 = new Artista(); 
 > >		artista1.id = 1;
-> >		artista1.name = "Michal Jackson"; <br>
-> >		artista1.nacionalidade = "USA"; <br>
-> >		<br>
-> >		Album album1 = new Album(); <br>
-> >		album1.ano = 1980; <br>
-> >		album1.id = 1; <br>
-> >		album1.name = "Thriller"; <br>
-> >		<br>
-> >		Musica musica1 = new Musica(); <br>
-> >		musica1.id = 1; <br>
-> >		musica1.name = "We are the World"; <br>
-> >		musica1.duracao = 250; <br>
-> >		<br>
-> >		Artista artista3 = new Artista(); <br>
-> >		artista3.id = 3; <br>
-> >		artista3.name = "James Hetfield"; <br>
-> >		artista3.nacionalidade = "USA"; <br>
-> >		<br>
-> >		Album album3 = new Album(); <br>
-> >		album3.id = 3; <br>
-> >		album3.ano = 1983; <br>
-> >		album3.name = "Kill 'Em All"; <br>
-> >		<br>
-> >		Musica musica3 = new Musica(); <br>
-> >		musica3.id = 3; <br>
-> >		musica3.name = "Seek and Destroy"; <br>
-> >		musica3.duracao = 360; <br>
+> >		artista1.name = "Michal Jackson"; 
+> >		artista1.nacionalidade = "USA";
+> >		
+> >		Album album1 = new Album(); 
+> >		album1.ano = 1980; 
+> >		album1.id = 1; 
+> >		album1.name = "Thriller"; 
+> >		
+> >		Musica musica1 = new Musica(); 
+> >		musica1.id = 1; 
+> >		musica1.name = "We are the World"; 
+> >		musica1.duracao = 250; 
+> >		
+> >		Artista artista3 = new Artista(); 
+> >		artista3.id = 3;
+> >		artista3.name = "James Hetfield"; 
+> >		artista3.nacionalidade = "USA";
+> >		
+> >		Album album3 = new Album();
+> >		album3.id = 3;
+> >		album3.ano = 1983;
+> >		album3.name = "Kill 'Em All";
+> >		
+> >		Musica musica3 = new Musica(); 
+> >		musica3.id = 3; 
+> >		musica3.name = "Seek and Destroy";
+> >		musica3.duracao = 360;
 	
