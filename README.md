@@ -55,3 +55,36 @@ Executará algumas ações testando o armazenamento de dados e posteriormente, r
 
 Com base no código desenvolvido acima, criou-se o seguinte:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jjk2Vbj/Diagrama2.jpg" alt="Diagrama2" border="0"></a>
+<br>
+Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
+
+> >		Artista artista1 = new Artista(); <br>
+> >		artista1.id = 1; <br>
+> >		artista1.name = "Michal Jackson"; <br>
+> >		artista1.nacionalidade = "USA"; <br>
+> >		<br>
+> >		Album album1 = new Album(); <br>
+> >		album1.ano = 1980; <br>
+> >		album1.id = 1; <br>
+> >		album1.name = "Thriller"; <br>
+> >		<br>
+> >		Musica musica1 = new Musica(); <br>
+> >		musica1.id = 1; <br>
+> >		musica1.name = "We are the World"; <br>
+> >		musica1.duracao = 250; <br>
+> >		<br>
+> >		Artista artista3 = new Artista(); <br>
+> >		artista3.id = 3; <br>
+> >		artista3.name = "James Hetfield"; <br>
+> >		artista3.nacionalidade = "USA"; <br>
+> >		<br>
+> >		Album album3 = new Album(); <br>
+> >		album3.id = 3; <br>
+> >		album3.ano = 1983; <br>
+> >		album3.name = "Kill 'Em All"; <br>
+> >		<br>
+> >		Musica musica3 = new Musica(); <br>
+> >		musica3.id = 3; <br>
+> >		musica3.name = "Seek and Destroy"; <br>
+> >		musica3.duracao = 360; <br>
+	
