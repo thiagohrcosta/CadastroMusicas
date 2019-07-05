@@ -97,13 +97,13 @@ O código após apresentar os artistas já cadastrados, solicita ao usuário que
 > >		artista2.name = sc.nextLine(); <br>
 > >		System.out.println("Digite a sua nacionalidade:"); <br>
 > >		artista2.nacionalidade = sc.nextLine(); <br>
-<br>
+<hr>
 > > Musica musica2 = new Musica(); <br>
 > >		System.out.println("Digite a música mais famosa deste artista:"); <br>
 > >		musica2.name = sc.nextLine(); <br>
 > >		System.out.println("Digite a duração desta música em segundos:"); <br>
 > >		musica2.duracao = sc.nextInt(); <br>
-<br>
+<hr>
 > >	Album album2 = new Album(); <br>
 > >		System.out.println("O album mais famoso, foi lançado em que ano? "); <br>
 > >		album2.ano = sc.nextInt(); <br>
