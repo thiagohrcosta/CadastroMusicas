@@ -50,3 +50,8 @@ Armazenará as informações principais de Musica, adotando a programação orie
 
 **d) ClassePrincipal:** <br>
 Executará algumas ações testando o armazenamento de dados e posteriormente, requerendo que o usuário insira certos dados para serem expostos na tela. <br>
+
+# Criação 
+
+Com base no código desenvolvido acima, criou-se o seguinte:
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Jjk2Vbj/Diagrama2.jpg" alt="Diagrama2" border="0"></a>
