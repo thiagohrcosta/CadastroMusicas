@@ -24,15 +24,29 @@ Para tanto criou-se um projeto denominado "Musica", com quatro classes:
 * ClassePrincipal
 <br>
 
-**a)** Classe Artista <br>
-Armazenará as informações principais de Artista adotando a programação orientada a objetos. 
+**a) Classe Artista:** <br>
+Armazenará as informações principais de Artista, adotando a programação orientada a objetos. 
 
 > >	public int id; <br>
 > >	public String name; <br>
 > >     public String nacionalidade; <br>
 
 Obs: Na modelagem de dados os atributos foram listados como "Privates", contudo foi no momento utilizados no Java como se fossem públicos. Posteriormente serão adaptados. 
+<br>
 
+**b) Classe Album:** <br>
+Armazenará as informações principais de Album, adotando a programação orientada a objetos. 
 
-	
+> > 	public int id; <br>
+> >	public String name; <br>
+> >	public int ano; <br>
 
+**c) Classe Musica:** <br>
+Armazenará as informações principais de Musica, adotando a programação orientada a objetos.
+
+> >	public int id; <br>
+> >	public String name; <br>
+> >	public int duracao; <br>
+
+**d) ClassePrincipal:** <br>
+Executará algumas ações testando o armazenamento de dados e posteriormente, requerendo que o usuário insira certos dados para serem expostos na tela. <br>
