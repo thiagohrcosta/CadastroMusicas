@@ -29,7 +29,7 @@ Armazenará as informações principais de Artista, adotando a programação ori
 
 > >	public int id; <br>
 > >	public String name; <br>
-> >     public String nacionalidade; <br>
+> > public String nacionalidade; <br>
 
 Obs: Na modelagem de dados os atributos foram listados como "Privates", contudo foi no momento utilizados no Java como se fossem públicos. Posteriormente serão adaptados. 
 <br>
@@ -37,7 +37,7 @@ Obs: Na modelagem de dados os atributos foram listados como "Privates", contudo 
 **b) Classe Album:** <br>
 Armazenará as informações principais de Album, adotando a programação orientada a objetos. 
 
-> > 	public int id; <br>
+> > public int id; <br>
 > >	public String name; <br>
 > >	public int ano; <br>
 
