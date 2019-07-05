@@ -90,14 +90,25 @@ Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 	
 # ENTRADA DE DADOS
 
-O código após apresentar os artistas já cadastrados, solicita ao usuário que preencha alguns dados de forma a permitir que sejam identificados e posteriormente, impressos na tela, para tanto utiliza-se o "Scanner", devidamente introduzido no início do código com **Scanner sc = new Scanner(System.in)**. Para tanto codificou-se assim:
+O código após apresentar os artistas já cadastrados, solicita ao usuário que preencha alguns dados de forma a permitir que sejam identificados e posteriormente, impressos na tela, para tanto utiliza-se o "Scanner", devidamente introduzido no início do código com **Scanner sc = new Scanner(System.in)**. Para tanto codificou-se de forma a solicitar dados do artista, album e música, assim:
 
-> >             Artista artista2 = new Artista();
+> > Artista artista2 = new Artista();
 > >		System.out.println("Digite o nome do Artista:");
 > >		artista2.name = sc.nextLine();
 > >		System.out.println("Digite a sua nacionalidade:");
 > >		artista2.nacionalidade = sc.nextLine();
-		
+<br>
+> > Musica musica2 = new Musica();
+> >		System.out.println("Digite a música mais famosa deste artista:");
+> >		musica2.name = sc.nextLine();
+> >		System.out.println("Digite a duração desta música em segundos:");
+> >		musica2.duracao = sc.nextInt();
+<br>
+> >	Album album2 = new Album();
+> >		System.out.println("O album mais famoso, foi lançado em que ano? ");
+> >		album2.ano = sc.nextInt();	
+	
+	
 # CÓDIGO EM EXECUÇÃO
 O código aqui desenvolvido pode ser visto em execução no seguinte link:
 
