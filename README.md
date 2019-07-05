@@ -58,8 +58,8 @@ Com base no código desenvolvido acima, criou-se o seguinte:
 <br>
 Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 
-> >		Artista artista1 = new Artista(); <br>
-> >		artista1.id = 1; <br>
+> >		Artista artista1 = new Artista(); 
+> >		artista1.id = 1;
 > >		artista1.name = "Michal Jackson"; <br>
 > >		artista1.nacionalidade = "USA"; <br>
 > >		<br>
