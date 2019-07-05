@@ -5,4 +5,10 @@ as quais poderão ser consultadas pelo sistema. O sistema também deve permitir 
 O sistema também deve ser capaz de exibir um relatório dos álbuns de um artista, o qual pode ser ordenado por nome, ano, 
 ou duração total do álbum. Um álbum pode ter a participação de vários artistas, sem distinção. Já a música pode possuir um ou 
 mais autores e intérpretes (todos considerados artistas).
+<br>
+
+Diagrama de Classes
+<hr>
+![Diagrama de Classes](https://i.ibb.co/0h0jcv9/diagrama-Classes.jpg)
+
 
