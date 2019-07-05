@@ -100,7 +100,7 @@ O código após apresentar os artistas já cadastrados, solicita ao usuário que
 <br>
 Para a classe Musica será requisitado: 
 <br>
-> > Musica musica2 = new Musica(); <br>
+> >  Musica musica2 = new Musica();
 > >		System.out.println("Digite a música mais famosa deste artista:"); <br>
 > >		musica2.name = sc.nextLine(); <br>
 > >		System.out.println("Digite a duração desta música em segundos:"); <br>
