@@ -88,6 +88,16 @@ Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 > >		musica3.name = "Seek and Destroy";
 > >		musica3.duracao = 360;
 	
+# ENTRADA DE DADOS
+
+O código após apresentar os artistas já cadastrados, solicita ao usuário que preencha alguns dados de forma a permitir que sejam identificados e posteriormente, impressos na tela, para tanto utiliza-se o "Scanner", devidamente introduzido no início do código com **Scanner sc = new Scanner(System.in)**. Para tanto codificou-se assim:
+
+> >             Artista artista2 = new Artista();
+> >		System.out.println("Digite o nome do Artista:");
+> >		artista2.name = sc.nextLine();
+> >		System.out.println("Digite a sua nacionalidade:");
+> >		artista2.nacionalidade = sc.nextLine();
+		
 # CÓDIGO EM EXECUÇÃO
 O código aqui desenvolvido pode ser visto em execução no seguinte link:
 
