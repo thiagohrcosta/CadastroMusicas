@@ -9,6 +9,6 @@ mais autores e intérpretes (todos considerados artistas).
 
 Diagrama de Classes
 <hr>
-![Diagrama de Classes](https://i.ibb.co/0h0jcv9/diagrama-Classes.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XSnZbM5/diagrama-Classes.jpg" alt="diagrama-Classes" border="0"></a>
 
 
