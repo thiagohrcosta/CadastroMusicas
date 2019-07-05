@@ -92,13 +92,12 @@ Para tanto codificou-se da seguinte forma dentro da **ClassePrincipal** : <br>
 
 O código após apresentar os artistas já cadastrados, solicita ao usuário que preencha alguns dados de forma a permitir que sejam identificados e posteriormente, impressos na tela, para tanto utiliza-se o "Scanner", devidamente introduzido no início do código com **Scanner sc = new Scanner(System.in)**. Para tanto codificou-se de forma a solicitar dados do artista, album e música, assim:
 
-> > Artista artista2 = new Artista();
-> >		System.out.println("Digite o nome do Artista:");
-> >		artista2.name = sc.nextLine();
-> >		System.out.println("Digite a sua nacionalidade:");
-> >		artista2.nacionalidade = sc.nextLine();
-
-
+> > Artista artista2 = new Artista(); <br>
+> >		System.out.println("Digite o nome do Artista:"); <br>
+> >		artista2.name = sc.nextLine(); <br>
+> >		System.out.println("Digite a sua nacionalidade:"); <br>
+> >		artista2.nacionalidade = sc.nextLine(); <br>
+<br>
 > > Musica musica2 = new Musica();
 > >		System.out.println("Digite a música mais famosa deste artista:");
 > >		musica2.name = sc.nextLine();
